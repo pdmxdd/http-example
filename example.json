@@ -1,1 +1,1 @@
-{"title": "POST JSON", "body": "I changed the JSON via a HTTP POST request"}
+{"title": "JSON title", "body": "JSON body"}
